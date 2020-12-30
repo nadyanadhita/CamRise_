@@ -3,6 +3,6 @@
         CamRise camera = new CamRise();
         new CurrentFingerprint(camera);
       
-        camera.setFingerprint("106");
+        camera.setFingerprint("105");
     }
 }
